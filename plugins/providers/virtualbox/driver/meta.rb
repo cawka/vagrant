@@ -122,6 +122,7 @@ module VagrantPlugins
           :read_machine_folder,
           :read_network_interfaces,
           :read_state,
+          :read_disks,
           :read_used_ports,
           :read_vms,
           :reconfig_host_only,
